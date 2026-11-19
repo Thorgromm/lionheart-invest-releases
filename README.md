@@ -51,7 +51,7 @@ Signierung der App.
 ### Updates
 
 Die App prüft beim Start, ob es eine neue Version gibt, und fragt dich, ob sie sie jetzt installieren soll. Ohne
-Internet startet sie normal. Unter **Über** kannst du auch selbst nach Updates suchen.
+Internet startet sie normal. Unter **Einstellungen → Über Lionheart Invest** kannst du auch selbst nach Updates suchen.
 
 ### Deinstallieren
 
@@ -105,7 +105,7 @@ If you are blocked, please tell the person who sent you this link. We will then 
 ### Updates
 
 The app checks for a new version on startup and asks whether to install it now. Without internet it starts
-normally. You can also check for updates yourself under **About**.
+normally. You can also check for updates yourself under **Settings → About Lionheart Invest**.
 
 ### Uninstall
 
